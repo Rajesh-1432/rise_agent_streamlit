@@ -1,0 +1,13 @@
+langchain 
+langchain_openai 
+langchain_community 
+langchain_text_splitters 
+langchain_core 
+faiss-cpu 
+phidata 
+openai
+streamlit
+joblib
+scikit-learn
+duckduckgo-search
+python-dotenv
